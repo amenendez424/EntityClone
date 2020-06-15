@@ -147,7 +147,7 @@ namespace PruebaEntity
             }
             else
             {
-                Console.WriteLine("Tu eres marico muchacho...");
+                Console.WriteLine("Muchas Gracias por usar el programa");
             }
 
         
